@@ -6,7 +6,6 @@ namespace PopAllGordos
 {
     internal class Entry : MelonMod
     {
-        // private static HashSet<string> processedZones
         public override void OnSceneWasLoaded(int buildIndex, string sceneName)
         {
 
